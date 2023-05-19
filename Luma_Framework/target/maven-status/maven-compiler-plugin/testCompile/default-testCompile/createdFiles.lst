@@ -1,0 +1,5 @@
+luma\usa\hooks\Hooks.class
+luma\usa\runnerTest\MyRunner.class
+luma\usa\stepdefination\StepDef.class
+luma\usa\hooks\StaleElement.class
+TestNGFramework\BaseAnnotionSeq.class
